@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	
+}
+
+p{ 
+color: white;
+font-size: 25px;
+}
+	
+li { color: white;
+font-size: 25px;
+}
+
+a{
+	color:red;
+}
+div{ 
+
+  width:300px;
+
+  color: green;
+  font-size: 25px;
+
+}
